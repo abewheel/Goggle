@@ -1,0 +1,12 @@
+# This is a comment and should be ignored.
+# This is another comment.
+#Here is another comment without any spaces after the #.
+#         Here is a comment with a lot of spaces.
+
+INDEX_FILE = data5/index.txt
+
+# Here is another comment
+
+OUTPUT_FILE      =    data5/index_student.txt
+
+# Here is one final comment.
